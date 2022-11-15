@@ -8,6 +8,8 @@ Avaliable in Windows.
 
 TextOS Subsystem for MacOS coming soon!
 
+There is a project currently to install games into TextOS
+Project Name: DockerInput
 
 TextOS has a built in 5GB Hardrive.
 
@@ -17,3 +19,4 @@ You can check out TextOS Beta Channel on Github.
 
 In the beta Channel there is access to the base system code.
 
+We are attempting to recreate TextOS for MacOS
