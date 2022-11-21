@@ -36,6 +36,7 @@ CPU: AMD / Intel
 RAM: 2GB
 Display: 480p
 GPU: None Needed
+Hardrive: 2GB
 Software: .NET Framework 6 / Microsoft Windows XP
 
 Recomended Specifications:
@@ -44,6 +45,10 @@ CPU: AMD / Intel
 RAM: 8GB or more
 Display: 1080p
 GPU: None Needed
+Hardrive: 6GB or more
 Software: .NET Framework 6 / Microsoft Windows 11
 
 You can shutdown/reboot your machine by using "reboot/shutdown" command.
+
+How long does it take to install?
+It can take from 2-4 minutes to install.
