@@ -1,22 +1,49 @@
-# Text-OS
-An open source operating system build in C#. Does not need installation disk/media.
+TextOS
 
-**Currently not avaliable for MacOS**
-**Currently not avaliable for Linux**
+An open source operating system built in C# and .NET Framework.
 
-Avaliable in Windows. 
+**Not avaliable for MacOS (Lion / Mountain Lion / Sierra / High Sierra / Catalina / Mojave / Big Sur / Montery / Ventura)**
 
-TextOS Subsystem for MacOS coming soon!
+**Not avaliable for Linux (Ubuntu 22.0/Arch Linux/Pop OS/Pear OS/ Debian/ Lubuntu/ Uwuntu/ Kubuntu/ Others.)**
 
-There is a project currently to install games into TextOS
-Project Name: DockerInput
+Avliable for Windows XP/Vista/7/8/8.1/10/11.
 
-TextOS has a built in 5GB Hardrive.
+How to install.
 
-Base System comming soon!
+1. First you need to install Microsoft .NET Framwork 6
+2. Download this project
+3. Open TextOS.exe
+4. Hit ENTER
+5. hit y then enter
+6. Let the operating system install TextOS onto your system (5GB Hardrive)
 
-You can check out TextOS Beta Channel on Github.
+Support
 
-In the beta Channel there is access to the base system code.
+Can I convert the .exe file format to .app/.deb?
+No this will not work as this operating system is only designed for Windows .exe file format. If you try this then your file will then become corrupted, you will need to download the file again on a WINDOWS MACHINE.
 
-We are attempting to recreate TextOS for MacOS
+How can I update TextOS?
+You can use the command "sudo apt update" to connect to TextOS servers and download the updates. 
+OR
+You can also install a fresh installation media of TextOS from this page. (WILL RESET YOUR OS)
+
+How do I install drivers?
+If you use the command "sudo apt update", it will automaticly download and install drivers for your machine.
+
+Minimum Specifications:
+
+CPU: AMD / Intel
+RAM: 2GB
+Display: 480p
+GPU: None Needed
+Software: .NET Framework 6 / Microsoft Windows XP
+
+Recomended Specifications:
+
+CPU: AMD / Intel
+RAM: 8GB or more
+Display: 1080p
+GPU: None Needed
+Software: .NET Framework 6 / Microsoft Windows 11
+
+You can shutdown/reboot your machine by using "reboot/shutdown" command.
