@@ -1,0 +1,16 @@
+TextOS IFVGP 
+
+(Intergration For Video Games Programm)
+
+Version: 1.00
+
+Current Games: None
+
+How to boot Game?
+
+1. Boot TextOS Version 3122022 or later
+2. Install IFVGP subsystem (ifvgp --install) 
+3. Type cd bin/ifvgp/mnt/v1/
+4. Type start
+ 
+ Note: This will boot you into a seperate operating system the is running of TextOS's IFVGP system, after that you can choose the game that you want to play.
