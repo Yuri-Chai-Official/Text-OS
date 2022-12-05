@@ -1,0 +1,10 @@
+How to update TextOS?
+
+1. Boot TextOS.exe
+2. Type sudo apt update
+3. The OS will check for any updates
+4. If there are any updates, the OS will install and restart. It will apply those updates.
+
+OR
+NOTE: You can also go to TextOS on Github and reinstall the operating system.
+WARNING: IF YOU DO OPTION 2 ALL DATA WILL BE LOST.
