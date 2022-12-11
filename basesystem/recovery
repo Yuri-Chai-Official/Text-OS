@@ -1,0 +1,5 @@
+TextOS recovery os
+
+start = textos recovery
+
+else start = leafos
